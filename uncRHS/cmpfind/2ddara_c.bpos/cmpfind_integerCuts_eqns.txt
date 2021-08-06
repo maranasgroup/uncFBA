@@ -1,0 +1,16 @@
+cut0.. yU('M__2ddara_c') + yL('M__dxylnt_c') =l= 1.5;
+cut1.. yL('M__dxylnt_p') + yU('M__2ddara_c') =l= 1.5;
+cut2.. yU('M__2ddara_c') + yL('M__4hthr_c') =l= 1.5;
+cut3.. yU('M__2ddara_c') + yL('M__gcald_c') =l= 1.5;
+cut4.. yL('M__isetac_c') + yU('M__2ddara_c') =l= 1.5;
+cut5.. yL('M__isetac_p') + yU('M__2ddara_c') =l= 1.5;
+cut6.. yU('M__6hmhpt_c') + yU('M__2ddara_c') =l= 1.5;
+cut7.. yU('M__6hmhptpp_c') + yU('M__2ddara_c') =l= 1.5;
+cut8.. yU('M__dhpt_c') + yU('M__2ddara_c') =l= 1.5;
+cut9.. yU('M__2ddara_c') + yU('M__dhf_c') =l= 1.5;
+cut10.. yU('M__thf_c') + yU('M__2ddara_c') =l= 1.5;
+cut11.. yU('M__methf_c') + yU('M__2ddara_c') =l= 1.5;
+cut12.. yU('M__10fthf_c') + yU('M__2ddara_c') =l= 1.5;
+cut13.. yU('M__2ddara_c') + yU('M__5fthf_c') =l= 1.5;
+cut14.. yU('M__mlthf_c') + yU('M__2ddara_c') =l= 1.5;
+cut15.. yU('M__5mthf_c') + yU('M__2ddara_c') =l= 1.5;

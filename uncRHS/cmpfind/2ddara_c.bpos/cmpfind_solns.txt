@@ -1,0 +1,17 @@
+0	1	2ddara_c.bpos:0.01, dxylnt_c.bneg:10.0	yU('M__2ddara_c') + yL('M__dxylnt_c') =l= 1.5;
+1	1	dxylnt_p.bneg:10.0, 2ddara_c.bpos:0.01	yL('M__dxylnt_p') + yU('M__2ddara_c') =l= 1.5;
+2	1	2ddara_c.bpos:0.01, 4hthr_c.bneg:10.0	yU('M__2ddara_c') + yL('M__4hthr_c') =l= 1.5;
+3	1	2ddara_c.bpos:0.01, gcald_c.bneg:10.0	yU('M__2ddara_c') + yL('M__gcald_c') =l= 1.5;
+4	1	isetac_c.bneg:0.01, 2ddara_c.bpos:0.01	yL('M__isetac_c') + yU('M__2ddara_c') =l= 1.5;
+5	1	isetac_p.bneg:10.0, 2ddara_c.bpos:0.01	yL('M__isetac_p') + yU('M__2ddara_c') =l= 1.5;
+6	1	6hmhpt_c.bpos:0.01, 2ddara_c.bpos:0.01	yU('M__6hmhpt_c') + yU('M__2ddara_c') =l= 1.5;
+7	1	6hmhptpp_c.bpos:0.01, 2ddara_c.bpos:0.01	yU('M__6hmhptpp_c') + yU('M__2ddara_c') =l= 1.5;
+8	1	dhpt_c.bpos:0.01, 2ddara_c.bpos:0.01	yU('M__dhpt_c') + yU('M__2ddara_c') =l= 1.5;
+9	1	2ddara_c.bpos:0.01, dhf_c.bpos:0.01	yU('M__2ddara_c') + yU('M__dhf_c') =l= 1.5;
+10	1	thf_c.bpos:0.01, 2ddara_c.bpos:0.01	yU('M__thf_c') + yU('M__2ddara_c') =l= 1.5;
+11	1	methf_c.bpos:0.01, 2ddara_c.bpos:0.01	yU('M__methf_c') + yU('M__2ddara_c') =l= 1.5;
+12	1	10fthf_c.bpos:0.01, 2ddara_c.bpos:0.01	yU('M__10fthf_c') + yU('M__2ddara_c') =l= 1.5;
+13	1	2ddara_c.bpos:0.01, 5fthf_c.bpos:0.01	yU('M__2ddara_c') + yU('M__5fthf_c') =l= 1.5;
+14	1	mlthf_c.bpos:0.01, 2ddara_c.bpos:0.01	yU('M__mlthf_c') + yU('M__2ddara_c') =l= 1.5;
+15	1	5mthf_c.bpos:0.01, 2ddara_c.bpos:0.01	yU('M__5mthf_c') + yU('M__2ddara_c') =l= 1.5;
+16	10	2ddara_c.bpos:0.01	yU('M__2ddara_c') =l= 0.5;

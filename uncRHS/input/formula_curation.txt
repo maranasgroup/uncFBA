@@ -1,0 +1,145 @@
+id	formula	mw_without_moeity
+# From iAF1260
+3haACP_c	C15H27N2O9PAcpS	442.421641
+3hcddec5eACP_c	C23H41N2O9PAcpS	552.618401
+3hcmrs7eACP_c	C25H45N2O9PAcpS	580.671561
+3hcpalm9eACP_c	C27H49N2O9PAcpS	608.724721
+3hcvac11eACP_c	C29H53N2O9PAcpS	636.777881
+3hddecACP_c	C23H43N2O9PAcpS	554.634281
+3hdecACP_c	C21H39N2O9PAcpS	526.581121
+3hhexACP_c	C17H31N2O9PAcpS	470.474801
+3hmrsACP_c	C25H47N2O9PAcpS	582.687441
+3hoctACP_c	C19H35N2O9PAcpS	498.527961
+3hoctaACP_c	C29H55N2O9PAcpS	638.793761
+3hpalmACP_c	C27H51N2O9PAcpS	610.740601
+3ocddec5eACP_c	C23H39N2O9PAcpS	550.602521
+3ocmrs7eACP_c	C25H43N2O9PAcpS	578.655681
+3ocpalm9eACP_c	C27H47N2O9PAcpS	606.708841
+3ocvac11eACP_c	C29H51N2O9PAcpS	634.762001
+3oddecACP_c	C23H41N2O9PAcpS	552.618401
+3odecACP_c	C21H37N2O9PAcpS	524.565241
+3ohexACP_c	C17H29N2O9PAcpS	468.458921
+3omrsACP_c	C25H45N2O9PAcpS	580.671561
+3ooctACP_c	C19H33N2O9PAcpS	496.512081
+3ooctdACP_c	C29H53N2O9PAcpS	636.777881
+3opalmACP_c	C27H49N2O9PAcpS	608.724721
+ACP_c	C11H21N2O7PAcpS	356.332401
+acACP_c	C13H23N2O8PAcpS	398.369081
+actACP_c	C15H25N2O9PAcpS	440.405761
+apoACP_c	AcpHO	17.00734
+but2eACP_c	C15H25N2O8PAcpS	424.406361
+butACP_c	C15H27N2O8PAcpS	426.422241
+cddec5eACP_c	C23H41N2O8PAcpS	536.619001
+cdec3eACP_c	C21H37N2O8PAcpS	508.565841
+dcaACP_c	C21H39N2O8PAcpS	510.581721
+ddcaACP_c	C23H43N2O8PAcpS	538.634881
+hdeACP_c	C27H49N2O8PAcpS	592.725321
+hexACP_c	C17H31N2O8PAcpS	454.475401
+malACP_c	C14H22N2O10PAcpS	441.370641
+myrsACP_c	C25H47N2O8PAcpS	566.688041
+ocACP_c	C19H35N2O8PAcpS	482.528561
+ocdcaACP_c	C29H55N2O8PAcpS	622.794361
+octeACP_c	C29H53N2O8PAcpS	620.778481
+palmACP_c	C27H51N2O8PAcpS	594.741201
+t3c11vaceACP_c	C29H51N2O8PAcpS	618.762601
+t3c5ddeceACP_c	C23H39N2O8PAcpS	534.603121
+t3c7mrseACP_c	C25H43N2O8PAcpS	562.656281
+t3c9palmeACP_c	C27H47N2O8PAcpS	590.709441
+tddec2eACP_c	C23H41N2O8PAcpS	536.619001
+tdeACP_c	C25H45N2O8PAcpS	564.672161
+tdec2eACP_c	C21H37N2O8PAcpS	508.565841
+thex2eACP_c	C17H29N2O8PAcpS	452.459521
+tmrs2eACP_c	C25H45N2O8PAcpS	564.672161
+toct2eACP_c	C19H33N2O8PAcpS	480.512681
+toctd2eACP_c	C29H53N2O8PAcpS	620.778481
+tpalm2eACP_c	C27H49N2O8PAcpS	592.725321
+alatrna_c	C3H6NOTrnaala	72.08584
+trnaala_c	Trnaala	0
+argtrna_c	C6H14N4OTrnaarg	158.20156
+trnaarg_c	Trnaarg	0
+asntrna_c	C4H7N2O2PTrnaasn	443.320321
+trnaasn_c	Trnaasn	328.209741
+asptrna_c	C4H5NO3Trnaasp	115.0874
+trnaasp_c	Trnaasp	0
+cystrna_c	C3H6NOSTrnacys	104.15084
+trnacys_c	Trnacys	0
+glntrna_c	C5H9N2O2Trnagln	129.13716
+trnagln_c	Trnagln	0
+glutrna_c	C5H7NO3Trnaglu	129.11398
+trnaglu_c	Trnaglu	0
+glytrna_c	C2H4NOTrnagly	58.05926
+trnagly_c	Trnagly	0
+histrna_c	C6H8N3OTrnahis	138.14722
+trnahis_c	Trnahis	0
+iletrna_c	C6H12NOTrnaile	114.16558
+trnaile_c	Trnaile	0
+leutrna_c	C6H12NOTrnaleu	114.16558
+trnaleu_c	Trnaleu	0
+lystrna_c	C6H14N2OTrnalys	130.18816
+trnalys_c	Trnalys	0
+phetrna_c	C9H10NOTrnaphe	148.1818
+trnaphe_c	Trnaphe	0
+protrna_c	C5H8NOTrnapro	98.12312
+trnapro_c	Trnapro	0
+sertrna_c	C3H6NO2Trnaser	88.08524
+trnaser_c	Trnaser	0
+thrtrna_c	C4H8NO2Trnathr	102.11182
+trnathr_c	Trnathr	0
+trptrna_c	C11H11N2OTrnatrp	187.21784
+trnatrp_c	Trnatrp	0
+tyrtrna_c	C9H10NO2Trnatyr	164.1812
+trnatyr_c	Trnatyr	0
+valtrna_c	C5H10NOTrnaval	100.139
+trnaval_c	Trnaval	0
+mettrna_c	C5H10NOSTrnamet	132.204
+trnamet_c	Trnamet	0
+fmettrna_c	C6H9NO2STrnamet	159.20616
+sertrna_sec_c	C3H6NO2Trnasecys	88.08524
+sectrna_c	C3H6NOSeTrnasecys	151.04584
+trnasecys_c	Trnasecys	0
+dsbaox_p	Dsba	0
+dsbard_p	H2Dsba	2.01588
+dsbcox_p	Dsbc	0
+dsbcrd_p	H2Dsbc	2.01588
+dsbdox_c	Dsbd	0
+dsbdrd_c	H2Dsbd	2.01588
+dsbgox_p	Dsbg	0
+dsbgrd_p	H2Dsbg	2.01588
+alpp_p	Lpp	0
+lpp_p	C16H30O1Lpp	238.4088
+#fldox_c	Fld	0
+#fldrd_c	H2Fld	2.01588
+trdox_c	Trd	0
+trdrd_c	H2Trd	2.01588
+grxox_c	Grx	0
+grxrd_c	H2Grx	2.01588
+#
+# From iML1515 (reduced model using FVA under glucose aerobic)
+pmeACP_c	C19H33N2O10PAcpS	Pimeloyl-[acyl-carrier protein] methyl ester
+hgmeACP_c	C17H29N2O11PAcpS	3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester
+gmeACP_c	C17H29N2O10PAcpS	Glutaryl-[acyl-carrier protein] methyl ester
+pimACP_c	C18H31N2O10PAcpS	Pimeloyl-[acyl-carrier protein]
+ogmeACP_c	C17H27N2O11PAcpS	3-Oxo-glutaryl-[acyl-carrier protein] methyl ester
+hpmeACP_c	C19H33N2O11PAcpS	3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester
+egmeACP_c	C17H27N2O10PAcpS	Enoylglutaryl-[acyl-carrier protein] methyl ester
+epmeACP_c	C19H31N2O10PAcpS	Enoylpimeloyl-[acyl-carrier protein] methyl ester
+opmeACP_c	C19H31N2O11PAcpS	3-Oxo-pimeloyl-[acyl-carrier protein] methyl ester
+flxr_c	HFld	Flavodoxin reduced
+flxso_c	HFld	Flavodoxin semi oxidized
+moadamp_c	C11H12N5O8P1Moad	MoaD Protein with bound AMP
+moadcosh_c	C1H1O1S1Moad	MoaD Protein with thiocarboxylate
+moadcoo_c	C1O2Moad	MoaD Protein with carboxylate
+iscu_c	H8O2S6Iscu	IscU scaffold protein
+iscu_2fe2s_c	H4O2S8Fe2Iscu	IscU with bound [2Fe-2S] cluster
+iscu_2fe2s2_c	O2S10Fe4Iscu	IscU with two bound [2Fe-2S] clusters
+iscu_4fe4s_c	H4O2S10Fe4Iscu	IscU with bound [4Fe-4S] cluster
+iscs_c	HSIscs	IscS sulfur acceptor protein
+iscssh_c	HS2Iscs	IscS with bound sulfur
+sufse_c	HSSufse	SufSE sulfur acceptor complex
+sufsesh_c	HS2Sufse	SufSE with bound sulfur
+sufbcd_c	H8O2S6Sufbcd	SufBCD scaffold complex
+sufbcd_2fe2s2_c	O2S10Fe4Sufbcd	SufBCD with two bound [2Fe-2S] clusters
+sufbcd_4fe4s_c	H4O2S10Fe4Sufbcd	SufBCD with bound [4Fe-4S] cluster
+sufbcd_2fe2s_c	H4O2S8Fe2Sufbcd	SufBCD with bound [2Fe-2S] cluster
+puacgam_p	C8N1O5H14Polymer	Poly-?-1,6-N-acetyl-D-glucosamine
+puacgam_c	C8N1O5H14Polymer	Poly-?-1,6-N-acetyl-D-glucosamine

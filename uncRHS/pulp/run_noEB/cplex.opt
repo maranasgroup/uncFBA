@@ -1,0 +1,8 @@
+epopt 1.0000001e-7
+eprhs 1.0000001e-7
+epint 1.0000001e-7
+varsel 3
+bndstrenind 1
+nodefileind 2
+workmem 2500
+
