@@ -7,4 +7,4 @@ There are two subdirectories:
 1) ***/uncFBA/uncBiom***: injection of normally distributed noise to biomass precursor coeffcients and ATP maintenance (growth-associated ATP maintenance (GAM) and non-growth associated ATP maintenance (NGAM))
 2) ***/uncFBA/uncRHS***: departure from steady-state by adding noise drawn from normal distribution to the RHS terms of mass balance constraints
 <br>
-Detailed instructions are available in the "README.md" inside each subdirectory and in the scripts.
+More detailed instructions are provided in the "README.md" inside each subdirectory and in the scripts.
