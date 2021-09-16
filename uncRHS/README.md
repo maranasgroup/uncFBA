@@ -1,4 +1,4 @@
-# Description of files in uncFBA/uncRHS
+# Instructions to run uncFBA/uncRHS
 The files in here are example scripts to generate RHS vectors from normal distributions accounting for metabolite pools and elemental balances (via projection using linear programming (PULP)), and find flux distributions and biomass yield correspond to the generated RHS via instationary FBA (iFBA). The output files are provided to just show the format (with only 50 samples). For proper analysis, users should download the scripts and run for 10,000 samples or more.
 
 There are the following cases:
@@ -20,5 +20,5 @@ To run "maxBiom" and "maxBiom_noEB", here are the instructions:
 ```
 v.fx('R__BIOMASS_Ec_iML1515_core_75p37M') = 924.01715914 - 1e-4;
 ```
-(-1e-4 is done to avoid number rounding issue of optimal solution that could affect optimization feasibility)
+(-1e-4 is done to avoid number rounding issue of optimal solution that could affect optimization feasibility)<br>
 4) "gams pulp_minSL_to_maxBiom.gms": find minimal adjustments from the steady-state subject to the max biomass yield found previously
