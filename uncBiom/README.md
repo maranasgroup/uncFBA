@@ -40,7 +40,7 @@ Columns:
 - Mean_0.05/0.1/0.2/0.3: mean of a flux at a specific uncertainty level
 - Stdevnorm_0.05/0.1/0.2/0.3: relative SD  = absolute SD / mean
 
-Notes:
+**Notes**:
 - A01 scripts is provided for all cases. A02 and A03 scripts are only provided for CoeffVary. Users can download and adjust the A02 and A03 scripts for a particular case that they are interested in.
 - For proper results, a large enough population size from sampling is required. We recommend 10,000.
 - In CoeffVary example, we provided dfFluxStat.csv analyzed from running the population size of 10,000 across uncertainty levels of 5%, 10%, 20%, and 30%.
