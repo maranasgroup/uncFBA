@@ -7,22 +7,22 @@ The files in here are example scripts to generate RHS vectors from normal distri
 3) ***./pulp***: Projection using linear programming (PULP) to adjust a randomly sampled RHS vector accounting for metabolite pools and elemental balance
 
 **Instructions to run**:<br>
-**1) Run CMP-check**
+**1) Run CMP-check**<br>
 Go inside ./cmpcheck directory and run "python cmpcheck.py". The output is in "cmpcheck_results.csv"<br>
 **2) Run CMP-find**<br>
 - Go inside ./cmpfind directory
 - Create a subdirectory in the following format "<metabolite_id>.<*bneg* or *bpos*>" where *bneg* indicates negative RHS perturbation (depletion) and *bpos* indicates positive RHS perturbation (accumulation)
 - Copy the file *cmpfind.py* from the example scripts for "2dhp_c" depletion in the subdirectory "./cmpfind/2dhp_c.bneg"
-- Edit the newly copied *cmpfind.py* file at lines to your selected metabolite and imbalance (look at CMP-check results to see which metabolite and imbalance combinations you need to run for)
+- Edit the newly copied *cmpfind.py* file at lines to your selected metabolite and imbalance (look at CMP-check results to see which metabolite and imbalance combinations you need to run for) (the below example demonstrated for tetrahydrofolate depletion)
 ```
 # Set metabolite and imbalance
 met0 = 'thf_c'
 imb0 = 'bneg'
 ```
-(the above example demonstrated for tetrahydrofolate depletion)
 - Run "python cmpfind.py" and the output is in "cmpfind_solns.txt"
+
 <br>
 **3) Run PULP**<br>
-Go inside the pulp subdirectory for detailed instruction in a separate "README.md" file<br>
+Go inside the ./pulp subdirectory for detailed instruction in a separate "README.md" file<br>
 <br>
 
