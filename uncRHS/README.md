@@ -8,7 +8,7 @@ The files in here are example scripts to generate RHS vectors from normal distri
 
 **Instructions to run**:<br>
 **1) Run CMP-check**<br>
-Go inside ./cmpcheck directory and run "python cmpcheck.py". The output is in "cmpcheck_results.csv"<br>
+Go inside ./cmpcheck directory and run "python cmpcheck.py". The output is in "cmpcheck_results.csv"<br><br>
 **2) Run CMP-find**<br>
 - Go inside ./cmpfind directory
 - Create a subdirectory in the following format "<metabolite_id>.<*bneg* or *bpos*>" where *bneg* indicates negative RHS perturbation (depletion) and *bpos* indicates positive RHS perturbation (accumulation)
@@ -21,8 +21,5 @@ imb0 = 'bneg'
 ```
 - Run "python cmpfind.py" and the output is in "cmpfind_solns.txt"
 
-<br>
 **3) Run PULP**<br>
 Go inside the ./pulp subdirectory for detailed instruction in a separate "README.md" file<br>
-<br>
-
