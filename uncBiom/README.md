@@ -16,23 +16,23 @@ The files in here are example scripts to sample, perform pFBA, and analyze uncer
 3) run "A03_calc_SDR.ipynb": Calculate SDR, which is used to quantify the propagated uncertainty from parameters to biomass yield and fluxes
 
 **There are the following outputs:**<br>
-Sampled parameters<br>
+*Sampled parameters*<br>
 Columns: biomass MW and metabolites in biomass coefficient<br>
 Rows: indexes of samples. Row 0: is the original coefficients from the iML1515 model, not a part of the sampled population.<br>
 - "ftype-dfCoeff_CoeffStd-0.1.csv": csv file storing all sampled parameters for cases of biomass composition types
 - "ftype-dfCoeff_GAMStd-0.1.csv": csv file storing all sampled biomass coefficients after GAM being sampled for GAMVary. This is necessary because GAM go into biomass reaction with biomass composition.
 - For NGAM uncertainty, it is only a single value applied to the lower bound of ATPM reaction. Sampling is implemented directly in the script without outputing an intermediate file.
 
-Calculated pFBA flux distributions:<br>
+*Calculated pFBA flux distributions*<br>
 Columns: Reaction ID<br>
 Rows: consistent with from sampled parameters. See the description there.<br>
 - "ftype-dfCoeff_CoeffStd-0.1.csv" or "ftype-dfFlux_GAMStd-0.1.csv"
 
-Calculated flux sum quantities:<br>
+*Calculated flux sum quantities*<br>
 Columns / Rows: same with above for pFBA results
 - "ftype-dfCoeff_CoeffStd-0.1_added.csv" or "ftype-dfFlux_GAMStd-0.1_added.csv"
 
-Quantifying propagated uncertainty<br>
+*Quantifying propagated uncertainty*<br>
 Columns:
 - Stdev_slope: slope of linear regression of relative standard deviation (SD) vs. uncertainty levels (0%, 5%, 10%, 20%, and 30%). This is the SDR mentioned in the manuscript.
 - R2: R2-score of linear regression
