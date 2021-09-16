@@ -1,5 +1,5 @@
 # Instructions to run uncFBA/uncRHS
-The files in here are example scripts to generate RHS vectors from normal distributions accounting for metabolite pools and elemental balances (via projection using linear programming (PULP)), and find flux distributions and biomass yield correspond to the generated RHS via instationary FBA (iFBA). The output files are provided to just show the format (with only 50 samples). For proper analysis, users should download the scripts and run for 10,000 samples or more.
+The files in here are example scripts regarding conserved metabolite pools and departure from metabolite steady-state in FBA.
 
 **There are the following optimization formulations**:
 1) ***./cmpcheck***: CMP-check optimization to find if a metabolite is in a pool by forcing a metabolite to be under accumulation or depletion and observe if another metabolite is simultaneously in imbalance
