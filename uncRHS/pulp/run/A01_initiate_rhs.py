@@ -60,7 +60,7 @@ for met in dfSamp.columns:
         dfSamp.loc[1:, met] = [0]*size
         continue
     else:
-        scale_adj = scale*mu_max*(1000/MW)
+        scale_adj = scale*1.80156 * (1000./MW)
     
     if samp_methods[met] == 'zero':
         dfSamp.loc[1:, met] = [0]*size
