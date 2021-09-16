@@ -2,13 +2,13 @@
 The files in here are example scripts to sample, perform pFBA, and analyze uncertainty propagation from biomass composition and ATP demand uncertainty to fluxes. The output files are provided to just show the format (with only 50 samples). For proper analysis, users should download the scripts and run for 10,000 samples or more.
 
 **There are the following cases:**
-1) ***CoeffVary***: Apply uncertainty to all individual biomass constituents' fractions simultaneously
-2) ***CoeffVaryNoRescale***: Apply uncertainty to all individual biomass constituents' fractions simultaneously, without rescaling the biomass molecular weight (MW) to 1 g/mmol
-3) ***SingleCoeffVary***: Apply uncertainty to only a designated single individual biomass constituent
-4) ***MacroVary***: Apply uncertainty to all macromolecular fractions for all macromolecular classes simultaneously
-5) ***SingleMacroVary***: Apply uncertainty to only a designated macromolecular fraction
-6) ***GAMVary***: Apply uncertainty to the growth-associated ATP maintenance rate (GAM)
-7) ***NGAMVary***: Apply uncertainty to the non-growth associated ATP maintenance rate (NGAM)
+1) ***./CoeffVary***: Apply uncertainty to all individual biomass constituents' fractions simultaneously
+2) ***./CoeffVaryNoRescale***: Apply uncertainty to all individual biomass constituents' fractions simultaneously, without rescaling the biomass molecular weight (MW) to 1 g/mmol
+3) ***./SingleCoeffVary***: Apply uncertainty to only a designated single individual biomass constituent
+4) ***./MacroVary***: Apply uncertainty to all macromolecular fractions for all macromolecular classes simultaneously
+5) ***./SingleMacroVary***: Apply uncertainty to only a designated macromolecular fraction
+6) ***./GAMVary***: Apply uncertainty to the growth-associated ATP maintenance rate (GAM)
+7) ***./NGAMVary***: Apply uncertainty to the non-growth associated ATP maintenance rate (NGAM)
 
 **Here are the instructions to run:**
 1) run "A01_sample_and_pFBA.ipynb": Sample parameters, modify model, and run pFBA

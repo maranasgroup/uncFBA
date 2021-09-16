@@ -2,10 +2,10 @@
 The files in here are example scripts to generate RHS vectors from normal distributions accounting for metabolite pools and elemental balances (via projection using linear programming (PULP)), and find flux distributions and biomass yield correspond to the generated RHS via instationary FBA (iFBA). The output files are provided to just show the format (with only 50 samples). For proper analysis, users should download the scripts and run for 10,000 samples or more.
 
 **There are the following cases**:
-1) ***run***: run PULP and iFBA, enforcing elemental balance constraints
-2) ***run_noEB***: run PULP and iFBA, ignoring elemental balance constraints
-3) ***maxBiom***: run a modified formulation of PULP that set the optimization objective to be maximization of biomass yield, enforcing elemental balance constraints
-4) ***maxBiom_noEB***: run a modified formulation of PULP that set the optimization objective to be maximization of biomass yield, ignoring elemental balance constraints
+1) ***./run***: run PULP and iFBA, enforcing elemental balance constraints
+2) ***./run_noEB***: run PULP and iFBA, ignoring elemental balance constraints
+3) ***./maxBiom***: run a modified formulation of PULP that set the optimization objective to be maximization of biomass yield, enforcing elemental balance constraints
+4) ***./maxBiom_noEB***: run a modified formulation of PULP that set the optimization objective to be maximization of biomass yield, ignoring elemental balance constraints
 
 **Instructions to run "run" and "run_noEB"**:
 1) Adjust the settings in "path_and_run_id.py:
