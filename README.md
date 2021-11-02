@@ -3,7 +3,7 @@ This GitHub repository provides example scripts for the manuscript **"Quantifyin
 <br>
 In the repository are example scripts that perform uncertainty injection and propagation to flux balance analysis with outputs for a small sample size (for demonstration purpose only). For proper analysis, user should download the scripts and run for a large sample size (e.g., 10,000 samples).<br>
 <br>
-If you use the scripts, please cite the following bioRxiv preprint: "Quantifying the propagation of parametric uncertainty on flux balance analysis" (https://www.biorxiv.org/content/10.1101/2021.09.16.460685v1)<br>
+If you use the scripts, please cite the following Metabolic Engineering article: "Quantifying the propagation of parametric uncertainty on flux balance analysis" (https://doi.org/10.1016/j.ymben.2021.10.012)<br>
 <br>
 There are two subdirectories:
 1) ***/uncFBA/uncBiom***: injection of normally distributed noise to biomass precursor coeffcients and ATP maintenance (growth-associated ATP maintenance (GAM) and non-growth associated ATP maintenance (NGAM))
